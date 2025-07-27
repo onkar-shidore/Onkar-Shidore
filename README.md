@@ -5,7 +5,7 @@ Hello, Welcome to My Profile
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkarshidore1085&label=Profile%20views&color=0e75b6&style=flat" alt="onkarshidore1085" /> </p>
 
-- 🌱 I’m currently learning *React js*
+- 🌱 I’m currently learning *Full Stack*
 
 - 📫 How to reach me *shidoreonkar1085@gmail.com*
 
@@ -22,4 +22,4 @@ Hello, Welcome to My Profile
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onkarshidore1085&show_icons=true&locale=en" alt="onkarshidore1085" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onkarshidore1085&" alt="onkarshidore1085" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onkar-shidore&" alt="onkarshidore1085" /></p>
