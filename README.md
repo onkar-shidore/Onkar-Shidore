@@ -75,15 +75,15 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onkarshidore1085&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onkar-shidore&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=onkarshidore1085&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=onkar-shidore&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onkarshidore1085" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onkar-shidore" alt="GitHub Streak" />
 </p>
 
 ---
