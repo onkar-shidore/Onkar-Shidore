@@ -1,10 +1,7 @@
 <!-- Profile Banner -->
 <!-- Intro SVG -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Developer-💻-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Learner-🌐-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-🤝-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tech%20Enthusiast-⚡-red?style=for-the-badge" />
+<p align="left">
+  <img src="./assets/intro.png" alt="Hello, I'm Onkar Shidore" width="650" />
 </p>
 
 ---
