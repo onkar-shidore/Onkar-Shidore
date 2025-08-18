@@ -3,6 +3,23 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=520&lines=%F0%9F%91%8B+Hello%2C+I%27m+Onkar+Shidore" alt="Typing SVG" />
 
 ---
+
+<!-- Animated Intro SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=35&pause=1000&color=FF5733,FFC300&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B%20Hello%2C%20I%27m%20Onkar%20Shidore" alt="Typing SVG" />
+</p>
+
+<!-- Animated Roles SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=28&pause=800&color=4287f5,42f57b,f54291&center=true&vCenter=true&width=600&lines=Frontend+Developer;Full+Stack+Learner;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
+<!-- Optional: Add a small divider -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Welcome-To-My-Profile-ff69b4?style=for-the-badge" alt="Divider" />
+</p>
+
+
 ##
 
 <!-- Role SVG -->
