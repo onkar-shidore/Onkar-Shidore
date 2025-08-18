@@ -1,6 +1,7 @@
 <!-- Profile Banner -->
 <!-- Intro SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=520&lines=%F0%9F%91%8B+Hello%2C+I%27m+Onkar+Shidore" alt="Typing SVG" />
+---
 ##
 
 <!-- Role SVG -->
