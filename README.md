@@ -1,7 +1,10 @@
 <!-- Profile Banner -->
 <!-- Intro SVG -->
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=35&pause=1000&color=FF5733,33C1FF&center=false&vCenter=true&width=650&lines=%F0%9F%91%8B%20Hello%2C%20I%27m%20Onkar%20Shidore" alt="Typing SVG" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend%20Developer-💻-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Learner-🌐-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-🤝-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tech%20Enthusiast-⚡-red?style=for-the-badge" />
 </p>
 
 ---
