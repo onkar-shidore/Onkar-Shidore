@@ -9,7 +9,7 @@
 
 <!-- Role SVG -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=28&pause=800&color=4287f5,42f57b,f54291&center=false&vCenter=true&width=600&lines=%F0%9F%92%BB%20Frontend+Developer;🌐+Full+Stack+Learner;🤝+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=28&pause=800&color=4287f5,42f57b,f54291&center=false&vCenter=true&width=600&lines=%F0%9F%92%BB%20Frontend+Developer;%F0%9F%8C%90+Full+Stack+Learner;%F0%9F%A4%91+Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views -->
