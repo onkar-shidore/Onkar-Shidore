@@ -1,7 +1,8 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=👋+Hello%2C+I'm+Onkar+Shidore;💻+Frontend+Developer;🌐+Full+Stack+Learner;🤝+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B%20Hello%2C%20I%27m%20Onkar%20Shidore" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=onkarshidore1085&label=👀+Profile+Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
