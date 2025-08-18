@@ -1,8 +1,10 @@
 <!-- Profile Banner -->
 <!-- Intro SVG -->
+<!-- Animated Intro SVG (Left-aligned, attractive colors) -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=35&pause=1000&color=FF5733,FFBD33,33FF57&center=false&vCenter=true&width=650&lines=%F0%9F%91%8B%20Hello%2C%20I%27m%20Onkar%20Shidore%20%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=35&pause=1000&color=FF4C4C,FFB84C,4CFFB8&center=false&vCenter=true&width=650&lines=%F0%9F%91%8B%20Hello%2C%20I%27m%20Onkar%20Shidore" alt="Typing SVG" />
 </p>
+
 
 ---
 ##
