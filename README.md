@@ -8,9 +8,11 @@
 ##
 
 <!-- Role SVG -->
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=28&pause=800&color=4287f5,42f57b,f54291&center=false&vCenter=true&width=600&lines=%F0%9F%92%BB%20Frontend+Developer;%F0%9F%8C%90+Full+Stack+Learner;%F0%9F%A4%91+Open+Source+Contributor" alt="Typing SVG" />
+<!-- Animated Roles SVG (Centered, colorful, with attractive emojis) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=30&pause=800&color=FF6B6B,FFD93D,6BCB77,4D96FF&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Frontend+Developer;%F0%9F%8C%90+Full+Stack+Learner;%F0%9F%92%AA+Open+Source+Contributor;%E2%9A%A1%EF%B8%8F+Tech+Enthusiast" alt="Typing SVG" />
 </p>
+
 
 <!-- Profile Views -->
 <p align="center">
