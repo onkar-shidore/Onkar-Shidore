@@ -1,4 +1,7 @@
-# 👋 Hello, I'm Onkar Shidore
+# <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=500&lines=👋+Hello,+I'm+Onkar+Shidore" alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Full+Stack+Learner;Open+Source+Contributor" alt="Typing SVG" />
