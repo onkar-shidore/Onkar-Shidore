@@ -8,8 +8,8 @@
 ##
 
 <!-- Role SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=28&pause=800&color=4287f5,42f57b,f54291&center=true&vCenter=true&width=600&lines=Frontend+Developer;Full+Stack+Learner;Open+Source+Contributor" alt="Typing SVG" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=28&pause=800&color=4287f5,42f57b,f54291&center=false&vCenter=true&width=600&lines=%F0%9F%92%BB%20Frontend+Developer;🌐+Full+Stack+Learner;🤝+Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views -->
