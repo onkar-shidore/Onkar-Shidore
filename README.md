@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <!-- Intro SVG -->
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=500&lines=👋+Hello,+I'm+Onkar+Shidore" alt="Typing SVG" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=520&lines=%F0%9F%91%8B+Hello%2C+I%27m+Onkar+Shidore" alt="Typing SVG" />
 
 <!-- Role SVG -->
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Full+Stack+Learner;Open+Source+Contributor" alt="Typing SVG" /> </p>
