@@ -21,7 +21,7 @@
 
 ## 🚀 About Me  
 
-- 🌍 From **India 🇮🇳**  
+- 🌍 From **India**  
 - 🌱 Currently learning **MERN Stack (MongoDB + Express + React + Node.js)**  
 - 🎨 Passionate about **building modern UIs & clean backend systems**  
 - 📧 Reach me at **shidoreonkar1085@gmail.com**  
