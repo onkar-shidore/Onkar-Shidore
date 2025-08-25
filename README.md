@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onkar-shidore&theme=highcontrast" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onkar-shidore&theme=highcontrast" alt="GitHub Streak"/>
 </p>
 
 ---
