@@ -11,9 +11,9 @@
 <br>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=onkarshidore1085&style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/followers/onkarshidore1085?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/onkarshidore1085?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=onkar-shidore&style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/followers/onkar-shidore?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/onkar-shidore?style=for-the-badge"/>
 </p>
 
 </div>
@@ -48,13 +48,13 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=onkarshidore1085&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=onkar-shidore&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkarshidore1085&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkar-shidore&layout=compact&theme=github_dark&hide_border=true"/>
 
 <br><br>
 
-<img width="98%" src="https://streak-stats.demolab.com?user=onkarshidore1085&theme=github-dark-blue&hide_border=true"/>
+<img width="98%" src="https://streak-stats.demolab.com?user=onkar-shidore&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -64,7 +64,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=onkarshidore1085&theme=algolia&row=1&column=6&margin-w=12&margin-h=12&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=onkar-shidore&theme=algolia&row=1&column=6&margin-w=12&margin-h=12&no-frame=true"/>
 
 </div>
 
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=onkarshidore1085&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=onkar-shidore&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -92,7 +92,7 @@
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/onkarshidore1085">
+<a href="https://github.com/onkar-shidore">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
