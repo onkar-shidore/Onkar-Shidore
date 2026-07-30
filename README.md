@@ -102,7 +102,7 @@
 
 <div align="center">
 
-### 💙 Thanks for visiting!
+### ❤️ Thanks for visiting! ❤️
 
 *"Code • Learn • Build • Repeat"*
 
