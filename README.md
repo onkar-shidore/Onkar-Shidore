@@ -84,7 +84,7 @@
 
 <div align="center">
 
-<a href="www.linkedin.com/in/onkar-shidore-2625b831b">
+<a href="https://www.linkedin.com/in/onkar-shidore-2625b831b">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
