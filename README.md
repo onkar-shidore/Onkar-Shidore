@@ -1,78 +1,182 @@
-<!-- Profile Banner  --> 
-<!-- Intro SVG -->
-<p align="left"> <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=35&pause=1000&color=FF5733,FFC300,FF33AA&center=false&vCenter=true&width=650&lines=%F0%9F%91%8B%20Hello%2C%20I%27m%20Onkar%20Shidore" alt="Typing SVG" /> </p>
+<!-- ============================= -->
+<!--        HEADER SECTION        -->
+<!-- ============================= -->
 
-<!-- Role SVG -->
-<!-- Animated Roles SVG (Centered, colorful, with attractive emojis) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=30&pause=800&color=FF6B6B,FFD93D,6BCB77,4D96FF&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Frontend+Developer;%F0%9F%8C%90+Full+Stack+Learner;%F0%9F%92%AA+Open+Source+Contributor;%E2%9A%A1%EF%B8%8F+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=38&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=👋+Hello,+I'm+Onkar+Shidore;💻+Full+Stack+Developer;🚀+MERN+Stack+Learner;🌟+Open+Source+Enthusiast" />
 </p>
 
-
-<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=onkarshidore1085&label=👀+Profile+Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-</p>
-
----
-
-## 🚀 About Me  
-
-- 🌍 From **India**  
-- 🌱 Currently learning **MERN Stack (MongoDB + Express + React + Node.js)**  
-- 🎨 Passionate about **building modern UIs & clean backend systems**  
-- 📧 Reach me at **shidoreonkar1085@gmail.com**  
-
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://twitter.com/onkar_shidore" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/onkar-shidore" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shidoreonkar1085@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=onkarshidore1085&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/onkarshidore1085?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/onkarshidore1085?affiliations=OWNER&style=for-the-badge&color=yellow" />
 </p>
 
 ---
 
-## 💻 Tech Stack  
+# 👨‍💻 About Me
+
+🎓 B.Sc. Computer Science Graduate
+
+🌍 From Maharashtra, India 🇮🇳
+
+💻 Passionate Full Stack Web Developer
+
+🌱 Currently Learning
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- Cloud Deployment
+
+🚀 Love Building
+
+- Responsive Websites
+- Full Stack Applications
+- REST APIs
+- Modern UI/UX
+
+📫 Reach Me
+
+**Email**
+
+📧 shidoreonkar1085@gmail.com
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,bootstrap,mysql,mongodb,java,c,cpp" />
+
+<a href="https://linkedin.com/in/onkar-shidore">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shidoreonkar1085@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/onkarshidore1085">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+# 💻 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onkar-shidore&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onkar-shidore&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,mongodb,mysql,java,c,cpp,git,github,vscode"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onkar-shidore&theme=highcontrast" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🏁 Currently Working On  
+# 🚀 Featured Projects
 
-- 🚧 **Full Stack Projects (React + Node.js + MySQL/MongoDB)**  
-- 🧠 **Mastering Backend Technologies & Cloud**  
-- 🎯 **Improving problem-solving with DSA & Competitive Programming**  
+### 💊 Medical Store Billing System
+
+- Node.js
+- Express.js
+- MySQL
+- Bootstrap
+- EJS
+
+---
+
+### 🛒 E-Commerce Website
+
+- React
+- Node.js
+- MongoDB
+
+---
+
+### 📋 Task Management System
+
+- JavaScript
+- Node.js
+- MySQL
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=onkarshidore1085&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkarshidore1085&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=onkarshidore1085&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=onkarshidore1085&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=onkarshidore1085&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎯 Current Goals
+
+✅ Master MERN Stack
+
+✅ Learn Next.js
+
+✅ Learn TypeScript
+
+✅ Contribute to Open Source
+
+✅ Solve 500+ DSA Problems
+
+---
+
+# ⚡ Fun Fact
+
+> "First, solve the problem.
+> Then, write the code."
 
 ---
 
 <p align="center">
-  ⭐ *Thank you for visiting my profile! If you like my work, don’t forget to follow & connect 🤝*  
+
+### ⭐ Thanks for Visiting!
+
+If you like my work,
+
+⭐ Star my repositories
+
+🤝 Follow me
+
+💬 Connect with me on LinkedIn
+
 </p>
